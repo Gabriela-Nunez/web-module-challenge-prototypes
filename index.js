@@ -100,7 +100,7 @@ console.log('Task 3:', baby1.play);
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. Global binding is when the 'this' keyword is within global context. 
+  1. Global binding is when the 'this' keyword is within/refering to global context. 
   2. Implicit binding is when the 'this' keyword is implied by the object being on left of the dot.
   3. New binding is when the 'this' keyword is trying to reference a constructor function the new keyword is used to create a new object with the same properties as the constructor.
   4. Explicit bindind is when you explicitly 'call'/'apply' the constructor that youre trying to reference 'this' to.
